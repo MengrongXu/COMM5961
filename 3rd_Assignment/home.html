@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ 	<meta charset="UTF-8">
+ 	<title>Home</title>
+ 	<link rel="stylesheet" type="text/css" href="style.css">
+ 	<style>
+ 		.defaultStyle{
+ 			font:normal 12pt arial;
+ 			text-decoration: none;
+ 			background-color: lightgrey;
+ 		}
+ 		.newStyle{
+ 			font: italic 12pt arial;
+ 			text-decoration: underline;
+ 			background-color: lightyellow;
+ 		}
+
+    </style>
+ 	<!--if lt IE 9)>
+ 	<script>
+ 	 document.createElement("article");
+ 	 document.createElement("aside");
+ 	 document.createElement("footer");
+ 	 document.createElement("header");
+ 	 document.createElement("main");
+ 	 document.createElement("nav");
+ 	 document.createElement("section");
+ 	</script>
+ 	<!(endif)-->
+ 	<script src= "lib.js" type = "text/javascript"></script>
+ 	<script type="text/javascript">
+ 		function MouseOver(){
+ 			var sidebar2 = document.getElementById("sidebar2");
+ 			sidebar2.className = "newStyle";
+ 			sidebar2.innerHTML = "<h2>Be yourself</h2><p>Always aim for the best!</p>";
+ 		}
+
+ 		function MouseOut(){
+ 			var sidebar2 = document.getElementById("sidebar2");
+ 			sidebar2.className = "defaultStyle";
+ 			sidebar2.innerHTML = "<h2>Be yourself</h2><p>See what can be shown here.</p>";
+ 		}
+
+		function onClick(){
+			document.getElementById("time").innerHTML = Date();
+		}
+       
+        function write_name(){
+        	var output = document.getElementById("sidebar2");
+        	var name = document.getElementById("name");
+        	var x = name.value;
+        	output.innerHTML = "Welcome " + x +" !";
+        	document.getElementById("sidebar2").style.fontStyle = "italic";
+        	document.getElementById("sidebar2").style.backgroundColor = "lightyellow";
+        	document.getElementById("sidebar2").style.fontSize = "xx-large";
+        	document.getElementById("sidebar2").style.color = "#51A8DD";
+        	document.getElementById("sidebar2").style.fontWeight = "900";
+        	if(x==""){
+        		alert("The filed can't be empty!");
+        		return false;
+
+        	}
+
+        }
+
+ 	</script>
+ </head>
+ <body>
+ 	<header class="banner">
+ 		<h1>Home</h1>
+ 		<p>Local and National News</p>
+ 	</header>
+
+ 	<nav>
+ 		<ul>
+ 			<li><a href="Home.html" onmouseover="MouseOver()" onmouseout="MouseOut()">Home</a></li>
+ 			<li><a href="Archives.html" onmouseover="MouseOver()" onmouseout="MouseOut()" >Archives</a></li>
+ 			<li><a href="About.html" onmouseover="MouseOver()" onmouseout="MouseOut()">About</a></li>
+ 		</ul>	
+ 	</nav>
+
+ 	<main>
+ 		<section>
+ 			<h2 id="local">Local News</h2>
+ 			<article>
+ 				<header>
+ 					<h3>Fire fighters rescue man from building</h3>
+ 					<p>author, date</p>
+ 				</header>
+ 					<p>This is the story text. This is the story text.</p>
+ 					<p>This is the story text. This is the story text.</p>
+ 			</article>
+
+ 			<article>
+ 				<header>
+ 					<h3>New library to be built.</h3>
+ 					<p>author, date</p>
+ 				</header>
+ 					<p>This is the story text. This is the story text.</p>
+ 					<p>This is the story text. This is the story text.</p>
+ 			</article>
+		</section>
+
+		<section>
+ 				<h2>National News</h2>
+ 			<article>
+ 				<header>
+ 					<h3>Snow storm is making travel difficult.</h3>
+ 					<p>author, date</p>
+ 				</header>
+ 					<p>This is the story text. This is the story text.</p>
+ 					<p>This is the story text. This is the story text.</p>
+ 			</article>
+
+ 			<article>
+ 				<header>
+ 					<h3>Thousands are without power</h3>
+ 					<p>author, date</p>
+ 				</header>
+ 					<p>This is the story text. This is the story text.</p>
+ 					<p>This is the story text. This is the story text.</p>
+ 			</article>
+		</section>
+ 	</main>
+
+	<aside>
+		<h2>Be a news reporter</h2>
+	    <p>If you see news happening - Send us a Text.</p>
+	</aside>
+	<aside id="sidebar2">
+        <h2>Be yourself</h2>
+        <p>Se what can be shown here.</p>
+	</aside>
+	
+	<aside>
+		<h2>More</h2>
+		<p>Try to explore more!</p>
+		<button id="our-button" onclick="onClick()">What is the time?</button>
+		<p id="time"></p>
+	</aside>
+
+	<aside>
+ 		 <form>
+   			Name: <input id="name" type="text"></input><br>
+   			<input type="button" value="Submit" onclick="write_name()"></input>
+   		</form>
+ 	</aside>
+	<footer>
+		<p>Footer Information</p>
+	</footer>
+	
+ </body>
+
+
+</html>
