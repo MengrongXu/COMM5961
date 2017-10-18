@@ -7,7 +7,9 @@ Drupal view<br/>
 http://dev-comm5961-demo.pantheonsite.io/shipping-directory
 
 Localhost database<br/>
+Please click on the ‘ascending and descending order’ button in the Company Name column to see the change.<br/>
 http://dev-comm5961-demo.pantheonsite.io/shipping_directory.php
+
 
 Json<br>
 http://dev-comm5961-demo.pantheonsite.io/shipping-directory-json
