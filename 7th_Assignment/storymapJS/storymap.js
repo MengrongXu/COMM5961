@@ -133,7 +133,7 @@ var storymap_data = {
 // certain settings must be passed within a separate options object
 var storymap_options = {
   language: 'en', // required; two-letter ISO language code
-  map_type: 'mapbox:mapbox.streets',          // required
+  map_type: 'mapbox:mapbox.outdoors',          // required
   // map_type: 'zoomify',
   map_as_image: false, // required
   calculate_zoom: true,
