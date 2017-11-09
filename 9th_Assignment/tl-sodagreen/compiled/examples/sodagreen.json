@@ -1,0 +1,138 @@
+{
+	"title": {
+            "text": {
+                "headline": "Days Accompanied by Sodagreen",
+                "text":     "Sodagreen is my favorite band. Their songs keep me accomapnied in many memorable moments."
+            }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year":			"2001"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Sodagreen"
+            },
+            "background": {
+				"opacity":"50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sodagreen-20080312TheWall.jpg/1200px-Sodagreen-20080312TheWall.jpg"
+            },
+            "text": {
+                "headline": "Introduction to Sodagreen",
+                "text": "Sodagreen (Chinese: 蘇打綠) is a Taiwanese indie band formed in 2001. The lead vocals Wu Tsing-Fong came up with teh name Sodagreen, which means that their songs can comfort people like soda water. And green is Wu's favorite color, now become the sybolic color of the band."
+            }
+        },   
+        {
+            "start_date": {
+                "year":			"2010"
+            },
+            "media": {
+                "url": "spotify:track:0roIOt1l3otYmaSEDzsHxw"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "https://static.pexels.com/photos/71859/spring-flowers-stroll-cherry-blossom-71859.jpeg"
+            },
+            "text": {
+                "headline": "Little Love Song",
+                "text": "I heard this song from a TV program and was attracted by the unique style and poetric lyrics. "
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2011"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=-Wx7jZnvr48"
+            },
+            "background": {
+                "url": "rainy.jpeg"
+            },
+            "text": {
+                "headline": "Symphonic Dream",
+                "text": "Sodagreen has a plan called four seasons in respect for Vivaldi, the musician famous for his Four Seasons. This song belongs to their first album in this plan called Daylight of Spring (Chinese: 春·日光). It is a poetry that adores the beauty and hope brought by spring rain. At that time, I was busy with study and often felt nervous, this song comforted me."
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2012"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=aOXL-Qj_VBo"
+            },
+            "background": {
+                "url": "https://static.pexels.com/photos/286205/pexels-photo-286205.jpeg"
+            },
+            "text": {
+                "headline": "The Sounds that Remains",
+                "text": "This is one of my favorite song in the album Summer: Fever (Chinese: 夏·狂熱) for the rythms, very suitable for summer. "
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2013"
+            },
+            "media": {
+                "url": "https://open.spotify.com/track/54sKw8ygkslwqfHZ1qjuwP"
+            },
+             "background": {
+                "url": "https://static.pexels.com/photos/216355/pexels-photo-216355.jpeg"
+            },
+            "text": {
+                "headline": "Started with a Fallen Leave",
+                "text": "This is one of the songs in the album of Autumn: Story (Chinese: 秋·故事), which was released when I was a freshman in NJU. In this album, they leveraged on Chinese culture like poetry of Tao Yuanming，Confucianism and Taoism as well as the traditional Chinese musical elements were to create the image of autumn. "
+            }
+        },
+         {
+            "start_date": {
+                "year":         "2015",
+                "month": "9"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=tAWPPcPaiQo"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "concert.jpeg"
+            },
+            "text": {
+                "headline": "Meet Again--2015 World Tour·Nanjing",
+                "text": "I went to their world tour in Nanjing in September of 2015. It was awsome!"
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2015",
+                "month": "12",
+                "day": "4"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=hMfInl-v1E4"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "https://static.pexels.com/photos/110817/pexels-photo-110817.jpeg"
+            },
+            "text": {
+                "headline": "What Lies Beyond the Wall",
+                "text": "Winter: Endless (Chinese: 冬·未了) is the last album in the four seasons plan. In this album, they well integrated the symphony to balance the feelings of heaviness and hope after long winter.  "
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2017"
+            },
+            "media": {
+                "url": "https://www.youtube.com/watch?v=q2bsAtY2FYI"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "https://static.pexels.com/photos/175402/pexels-photo-175402.jpeg"
+            },
+            "text": {
+                "headline": "They Will Have a 3-year Rest",
+                "text": "After the official announcement, the fans often leave comments on Wu Tsing-Fong's Weibo homepage to ask him sing for them. Therefore, Tsing-Fong will still record videos with Liu Jia-Kai, the guitar of the band to keep in good touch with the fans."
+            }
+        }
+    ]
+}
