@@ -9,8 +9,7 @@ My e-mail address is <a href="mailto:"xumengrong95@gmail.com">xumengrong95@gmail
 
 <a href="http://dev-megan-personalsite.pantheonsite.io/final/index-dark.html"><h3>My personal website</h3></a>
 <p>Only the contact form was linked to Drupal.</p>
-<br>
-<h3>This is<a href="http://dev-megan-personalsite.pantheonsite.io/Xu-Mengrong_final_report.pdf">My personal website</a></h3>
+<h3>This is<a href="http://dev-megan-personalsite.pantheonsite.io/Xu-Mengrong_final_report.pdf">My final report</a></h3>
 <br>
 <h2>Quantitative Test</h2>
 <a href="https://analytics.google.com/analytics/web/#embed/report-home/a110548167w164928362p165622190/"><h3>Google Analytics</h3></a>
