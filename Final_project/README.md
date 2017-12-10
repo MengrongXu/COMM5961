@@ -1,8 +1,8 @@
 <h2>Final Project - Personal Website</h2>
 <h4>Dear Prof. Bernard,
 Thanks for your teaching through the whole semester. I really learned a lot from this course.
-This is my final project. You can clcik the links for my website and final report.
-For your convenience of assessment, I also grant you the right to the Google Analytics and Optimize. And you can refer to the following information for the user account and password. 
+This is my final project. You can clcik the links for my website and final report.</h4>
+<h4>For your convenience of assessment, I also grant you the right to the Google Analytics and Optimize. And you can refer to the following information for the user account and password. 
 If you have any problems, please feel free to contact me. 
 My e-mail address is <a href="mailto:"xumengrong95@gmail.com">xumengrong95@gmail.com</a>
  </h4>
