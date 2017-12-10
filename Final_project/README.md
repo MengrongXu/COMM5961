@@ -3,7 +3,9 @@
 Thanks for your teaching through the whole semester. I really learned a lot from this course.
 This is my final project. You can clcik the links for my website and final report.
 For your convenience of assessment, I also grant you the right to the Google Analytics and Optimize. And you can refer to the following information for the user account and password. 
-If you have any problems, please feel free to contact me. My e-mail address is <a href="mailto:"xumengrong95@gmail.com"></a></h4>
+If you have any problems, please feel free to contact me. 
+My e-mail address is <a href="mailto:"xumengrong95@gmail.com"></a>
+ </h4>
 
 <a href="http://dev-megan-personalsite.pantheonsite.io/final/index-dark.html"><h2>My personal website</h2></a>
 <p>Only the contact form was linked to Drupal.</p>
