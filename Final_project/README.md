@@ -10,11 +10,12 @@ My e-mail address is <a href="mailto:"xumengrong95@gmail.com">xumengrong95@gmail
 <a href="http://dev-megan-personalsite.pantheonsite.io/final/index-dark.html"><h2>My personal website</h2></a>
 <p>Only the contact form was linked to Drupal.</p>
 <br>
-<a href="http://dev-megan-personalsite.pantheonsite.io/Xu-Mengrong_final_report.pdf"><h2>My report for final project</h2></a>
+<a href="http://dev-megan-personalsite.pantheonsite.io/Xu-Mengrong_final_report.pdf"><h2>My personal website</h2></a>
 
 <a href="https://analytics.google.com/analytics/web/#embed/report-home/a110548167w164928362p165622190/"><h2>Google Analytics</h2></a>
 <br>
 <a href="https://optimize.google.com/optimize/home/#/accounts"><h2>Google Optimize</h2></a>
+
 <p>You can access it with the CUHK email address for both sites.</p>
 <p>User E-mail Address: bernard@cuhk.edu.hk</p>
 <p>If you fail to access the google sites with this email. I also have an optional user account for you. You can find the optimize invitation in the mailbox.</p>
