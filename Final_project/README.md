@@ -10,11 +10,11 @@ My e-mail address is <a href="mailto:"xumengrong95@gmail.com">xumengrong95@gmail
 <a href="http://dev-megan-personalsite.pantheonsite.io/final/index-dark.html"><h2>My personal website</h2></a>
 <p>Only the contact form was linked to Drupal.</p>
 <br>
-<a href="http://dev-megan-personalsite.pantheonsite.io/Xu-Mengrong_final_report.pdf"><h2>My personal website</h2></a>
+<h2>This is<a href="http://dev-megan-personalsite.pantheonsite.io/Xu-Mengrong_final_report.pdf">My personal website</a></h2>
 
 <a href="https://analytics.google.com/analytics/web/#embed/report-home/a110548167w164928362p165622190/"><h2>Google Analytics</h2></a>
 <br>
-<a href="https://optimize.google.com/optimize/home/#/accounts"><h2>Google Optimize</h2></a>
+<h2><a href="https://optimize.google.com/optimize/home/#/accounts">Google Optimize</a></h2>
 
 <p>You can access it with the CUHK email address for both sites.</p>
 <p>User E-mail Address: bernard@cuhk.edu.hk</p>
