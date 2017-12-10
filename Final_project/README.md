@@ -12,7 +12,7 @@ My e-mail address is <a href="mailto:"xumengrong95@gmail.com">xumengrong95@gmail
 <h3><a href="http://dev-megan-personalsite.pantheonsite.io/Xu-Mengrong_final_report.pdf">My final report</a></h3>
 <br>
 <h2>Quantitative Test</h2>
-<a href="https://analytics.google.com/analytics/web/#embed/report-home/a110548167w164928362p165622190/"><h3>Google Analytics</h3></a>
+<h3><a href="https://analytics.google.com/analytics/web/#embed/report-home/a110548167w164928362p165622190/">Google Analytics</a></h3>
 <h3><a href="https://optimize.google.com/optimize/home/#/accounts">Google Optimize</a></h3>
 <p>You can access it with the CUHK email address for both sites.</p>
 <p>User E-mail Address: bernard@cuhk.edu.hk</p>
@@ -21,7 +21,7 @@ My e-mail address is <a href="mailto:"xumengrong95@gmail.com">xumengrong95@gmail
 <p>Password:passwordforbernard</p>
 <br>
 <h2> Drupal </h2>
-<a href="http://dev-megan-personalsite.pantheonsite.io/"><h3>Drupal site for final project</h3></a>
+<h3><a href="http://dev-megan-personalsite.pantheonsite.io/">Drupal site for final project</a></h3>
 <h3><a href="http://dev-comm5961-demo.pantheonsite.io/">Drupal for previous class exercises</a></h3>
 <p>You can access it with the CUHK email address for both drupal sites</p>
 <p>User Name: Bernard</p>
