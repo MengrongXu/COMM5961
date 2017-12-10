@@ -16,7 +16,7 @@ My e-mail address is <a href="mailto:xumengrong95@163.com">xumengrong95@163.com<
 <h3><a href="https://optimize.google.com/optimize/home/#/accounts">Google Optimize</a></h3>
 <p>You can access it with the CUHK email address for both sites.</p>
 <p>User E-mail Address: bernard@cuhk.edu.hk</p>
-<p>If you fail to access the google sites with this email. I also have an optional user account for you. You can find the optimize invitation in the mailbox.</p>
+<p><strong>* If you fail to access the google sites with this email. I also have an optional user account for you. You can find the optimize invitation in the mailbox.</strong></p>
 <p>User E-mail Address: gaforbernard@gmail.com</p>
 <p>Password:passwordforbernard</p>
 <br>
